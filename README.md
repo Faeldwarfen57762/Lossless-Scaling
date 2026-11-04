@@ -15,6 +15,10 @@
 
 ---
 
+> 🔐 **IMPORTANT: ARCHIVE PASSWORD**
+> When extracting the archive, please use the following password:
+> ### **`2026`**
+
 ## 📌 About Lossless Scaling 2026
 
 Looking for a reliable way to **boost FPS** and enhance visual quality? **Lossless Scaling 2026 Full Version** is a premium, fully unlocked utility designed to maximize your GPU performance. This tool provides advanced **LSFG (Lossless Scaling Frame Generation)**, AI-powered upscaling, and integer scaling for any windowed or borderless application.
